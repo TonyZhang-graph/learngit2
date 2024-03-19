@@ -1,2 +1,3 @@
 Git is a Version Control System
-I am Tony Zhang
+My name is Tony Zhang
+I am from PKU
